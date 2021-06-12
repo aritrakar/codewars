@@ -31,9 +31,9 @@ Last updated: 6/12/2021
 |  22  | [The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa) | [JavaScript](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/TheVowelCode.js) | 6 |
 |  23  | [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) | [JavaScript](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/LowestIntegersSum.js) | 7 |
 |  24  | [Find the next perfect square](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) | [Java](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/NextPerfectSquare.java), [Python](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/NextPerfectSquare.py) | 7 |
-|  25  | [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [Python](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/ATM.java) | 7 |
-|  26  | [ATM](https://www.codewars.com/kata/5635e7cb49adc7b54500001c) | [Java](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/ATM.java) | 7 |
-|  27  | [ATM](https://www.codewars.com/kata/5635e7cb49adc7b54500001c) | [Java](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/ATM.java) | 7 |
-|  28  | [ATM](https://www.codewars.com/kata/5635e7cb49adc7b54500001c) | [Java](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/ATM.java) | 7 |
-|  29  | [ATM](https://www.codewars.com/kata/5635e7cb49adc7b54500001c) | [Java](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/ATM.java) | 7 |
-|  30  | [ATM](https://www.codewars.com/kata/5635e7cb49adc7b54500001c) | [Java](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/ATM.java) | 7 |
+|  25  | [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/SpinWords.py) | 6 |
+|  26  | [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) | [Python](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/ListFiltering.py) | 7 |
+|  27  | [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) | [Python](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/CreditCardMask.py) | 7 |
+|  28  | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) | [Python](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/SquareEveryDigit.py) | 7 |
+|  29  | [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/FindUniqueNumber.py) | 6 |
+|  30  | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [Java](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/SplitStrings.py) | 6 |
