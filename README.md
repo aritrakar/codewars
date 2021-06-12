@@ -43,7 +43,7 @@ Last updated: 6/12/2021
 |  34  | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/Multiple3or5.py) | 6 |
 |  35  | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/TribonacciSequence.py) | 6 |
 |  36  | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/ArrayDiff.py) | 6 |
-|  37  | [Unique in Order]https://www.codewars.com/kata/54e6533c92449cc251001667) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/UniqueInOrder.py) | 6 |
+|  37  | [Unique in Order](https://www.codewars.com/kata/54e6533c92449cc251001667) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/UniqueInOrder.py) | 6 |
 |  38  | [Common Denominators](https://www.codewars.com/kata/54d7660d2daf68c619000d95) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/CommonDenominators.py) | 5 |
 |  39  | [Moving zeros to the end](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/MoveZeroesToEnd.py) | 5 |
 |  40  | [Pagination Helper](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/PaginationHelper.py) | 5 |
