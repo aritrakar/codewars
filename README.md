@@ -4,7 +4,7 @@ My solutions to some Katas from Codewars.
 <!-- codeBadges minified CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codemzy/codebadges@1.0.4/dist/codebadges.min.css">
 <!-- codeBadges minified JavaScript -->
-<script src="https://cdn.jsdelivr.net/gh/codemzy/codebadges@1.0.4/dist/codebadges.min.js"></script>
+<script src="http://cdn.jsdelivr.net/gh/codemzy/codebadges@1.0.4/dist/codebadges.min.js">codeBadges("aritrakar").codewars("akar28");</script>
 
 <div align="center">
   <div class="code-badge github"></div>
