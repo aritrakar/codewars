@@ -37,3 +37,21 @@ Last updated: 6/12/2021
 |  28  | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) | [Python](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/SquareEveryDigit.py) | 7 |
 |  29  | [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/FindUniqueNumber.py) | 6 |
 |  30  | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [Java](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/SplitStrings.py) | 6 |
+|  31  | [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/DeleteOccurrences.py) | 6 |
+|  32  | [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a) | [Python](https://github.com/aritrakar/codewars/blob/main/7%2C8%20kyu/ExesAndOhs.py) | 7 |
+|  33  | [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/FindMissingLetter.py) | 6 |
+|  34  | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/Multiple3or5.py) | 6 |
+|  35  | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/TribonacciSequence.py) | 6 |
+|  36  | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/ArrayDiff.py) | 6 |
+|  37  | [Unique in Order]https://www.codewars.com/kata/54e6533c92449cc251001667) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/UniqueInOrder.py) | 6 |
+|  38  | [Common Denominators](https://www.codewars.com/kata/54d7660d2daf68c619000d95) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/CommonDenominators.py) | 5 |
+|  39  | [Moving zeros to the end](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/MoveZeroesToEnd.py) | 5 |
+|  40  | [Pagination Helper](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/PaginationHelper.py) | 5 |
+|  41  | [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/RegexPasswordVlaidation.py) | 5 |
+|  42  | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/Rot13.py) | 5 |
+|  43  | [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/Permutations.py) | 4 |
+|  44  | [Tic Tac Toe checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/TicTacToeChecker.py) | 5 |
+|  45  | [Valid Parentheses](https://www.codewars.com/kata/5263c6999e0f40dee200059d) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/ValidParentheses.py) | 5 |
+|  46  | [The Observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/ObservedPIN.py) | 4 |
+|  47  | [Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1) | [Python](https://github.com/aritrakar/codewars/blob/main/5%2C6%20kyu/LastDigitLarge.py) | 5 |
+|  48  | [Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027) | [Python](https://github.com/aritrakar/codewars/blob/main/3%2C4%20kyu/LastDigitHuge.py) | 3 |
