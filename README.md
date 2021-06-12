@@ -11,5 +11,5 @@ My solutions to some Katas from Codewars.
   <div class="code-badge codewars"></div>
 </div>
 
-codeBadges("aritrakar").github().codewars("akar28");
+<script>codeBadges("aritrakar").github().codewars("akar28");</script>
 
