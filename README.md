@@ -1,2 +1,2 @@
 # codewars
-My solutions to some problems from Codewars.
+My solutions to some Katas from Codewars.
