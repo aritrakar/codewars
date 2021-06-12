@@ -6,5 +6,5 @@ My solutions to some Katas from Codewars.
 Last updated: 6/12/2021
 
 |#| Title | Solution | Kyu |
-|-|-------|----------|-----|
+|:-:|:-------:|:----------:|:-----:|
 |1|Multiply|Java, Python| 8 |
