@@ -1,6 +1,7 @@
 # codewars
 My solutions to some Katas from Codewars.
 
+<html>
 <!-- codeBadges minified CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codemzy/codebadges@1.0.4/dist/codebadges.min.css">
 <!-- codeBadges minified JavaScript -->
@@ -13,4 +14,5 @@ My solutions to some Katas from Codewars.
 </div>
 
 <script>codeBadges("aritrakar").codewars("akar28");</script>
+</html>
 
