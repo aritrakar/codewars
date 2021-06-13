@@ -1,7 +1,7 @@
 # codewars
-My solutions to some Katas from Codewars.
+My solutions to some Katas from [Codewars](https://www.codewars.com). [Profile](https://www.codewars.com/users/akar28/stats).
 
-### Rank: 4 kyu. Honor: 525
+### Rank: 4 kyu
 
 Last updated: 6/12/2021
 
