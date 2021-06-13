@@ -1,9 +1,13 @@
 # codewars
 My solutions to some Katas from [Codewars](https://www.codewars.com). [Profile](https://www.codewars.com/users/akar28/stats).
 
-### Rank: 4 kyu
+Last updated: 6/13/2021
 
-Last updated: 6/12/2021
+## Ranks
+Ranks are used to indicate the proficiency of users and the difficulty of Kata. There are two classes of ranks, Kyu and Dan, which are divided in 8 levels each. By increasing order of proficiency/difficulty: (i) 8 Kyu to 1 Kyu; (ii) 1 Dan to 8 Dan
+
+### My Rank: 4 kyu
+
 
 |  #  |  Title  |  Solution  | Kyu |
 | :-: |:---------:|:----------:|:-----:|
